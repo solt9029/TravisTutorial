@@ -1,3 +1,2 @@
-# travis-broken-example
-
-An example that will cause a build failure
+# TravisTutorial
+This repository is for testing Travis.
